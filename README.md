@@ -212,6 +212,8 @@
 
 </a> 
 
+<br>
+
 - 👀 I’m interested in Java programming and web development
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on any development project 
