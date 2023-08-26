@@ -48,7 +48,7 @@
   </a>
  
   <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+    <img alt="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
 <a href="" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
@@ -58,7 +58,7 @@
   </a>
 </p>
   
-
+<!--
 ### Database Tools
 <p
      <a href="" target="_blank">
@@ -82,6 +82,8 @@
     <img src="https://img.shields.io/badge/JavaScript-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="jetbrains" />
   </a>
 </p>
+
+-->
   
 ### Development Tools
 <p
@@ -91,12 +93,7 @@
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
   </a>
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  </a>
+ 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -104,9 +101,7 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white">
-  </a>
+ 
   <a href="https://linux.com/" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
