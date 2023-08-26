@@ -48,7 +48,7 @@
   </a>
  
   <a href="https://www.oracle.com/in/java" target="_blank">
-    <img alt="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
 <a href="" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
