@@ -26,7 +26,7 @@
   </p>
 
 
-<p >I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁
+<p >Passionate Web Developer, Security Engineer seeking a beginner role to enhance and explore my technical knowledge gained at NMIT Bengaluru in the last three years. Self-Motivated and cheerful. Skilled in Java and C++ programming languages. Ready to help the team achieve company goals.😁
 </p>
 
 
