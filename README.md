@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
 
-  <a href="https://medium.com/@anirudhchoudhary515" target="_blank">
+  <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
     </a>
   </p>
@@ -207,19 +207,19 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
+<a href="https://github.com/aryanarora29/path-visualizer">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanarora29&repo=path-visualizer&theme=dark" />
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/aryanarora29/Homomorphic-Encryption">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanarora29&repo=Homomorphic-Encryption&theme=dark"/>
 
 </a> 
 
