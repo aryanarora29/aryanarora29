@@ -1,6 +1,6 @@
 ## Hi, I’m Aryan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;Cyber+Security+Enthusiast;I'm+also+learning+IoT" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;Cyber+Security+Enthusiast;I’m+currently+learning+Machine+Learning" /></a>
 </p>
 
 <p align ="center">
@@ -79,7 +79,7 @@
 ### Visualisation Tools
 <p  
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/JavaScript-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="jetbrains" />
   </a>
 </p>
   
@@ -297,8 +297,8 @@
 
 </a>
 
-- 👀 I’m interested in Python programming and web development
-- 🌱 I’m currently learning Machine Learning and Data Science using python
+- 👀 I’m interested in Java programming and web development
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on any development project 
 - 📫 How to reach me: aryanarora2929@gmail.com
 
