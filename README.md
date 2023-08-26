@@ -16,7 +16,7 @@
   </a>   
  
   </a>  
-  <a href="https://twitter.com/aniruddh_515" target="_blank">
+  <a href="https://www.instagram.com/a_r_.y._a_n" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
 
@@ -26,7 +26,7 @@
   </p>
 
 
-<p >Passionate Web Developer, Security Engineer seeking a beginner role to enhance and explore my technical knowledge gained at NMIT Bengaluru in the last three years. Self-Motivated and cheerful. Skilled in Java and C++ programming languages. Ready to help the team achieve company goals.😁
+<p >Passionate Web Developer, Security Engineer seeking a beginner role to enhance and explore my technical knowledge gained at NMIT Bengaluru in the last three years. Self-Motivated and cheerful. Skilled in Java and C++ programming languages. Ready to help the team achieve company goals😁
 </p>
 
 
@@ -40,7 +40,7 @@
   </a>
   
   <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
   <a href="" target="_blank">
