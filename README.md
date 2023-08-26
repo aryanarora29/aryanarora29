@@ -99,22 +99,22 @@
  </p>
   
 
-### Machine Learning Tools
+### OS
 <p
    <a href="" target="_blank">
-    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img alt="CentOS" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
   </a>
 
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+   <a href="" target="_blank">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
    </a>
 
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+   <a href="" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    </a>
 
-   <a href="https://pytorch.org/" target="_blank">
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=Pytorch&logoColor=white">
+   <a href="" target="_blank">
+    <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
    </a>
 
 
