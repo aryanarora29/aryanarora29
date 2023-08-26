@@ -47,7 +47,7 @@
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
  
-  <a href="" target="_blank">
+  <a href="https://www.oracle.com/in/java" target="_blank">
     <img alt="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
 <a href="" target="_blank">
