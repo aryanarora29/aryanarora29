@@ -247,7 +247,55 @@
 <br/>
 
 
+## Projects
 
+<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
+
+</a>  
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
+
+</a> 
+
+<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
+
+</a> 
+
+<a href="https://github.com/Nneji123/FIFA-22-Player-Analysis">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
+
+</a> 
+
+<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
+
+</a>
+
+<a href="https://github.com/Nneji123/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
+
+</a>
 
 - 👀 I’m interested in Python programming and web development
 - 🌱 I’m currently learning Machine Learning and Data Science using python
