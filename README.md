@@ -159,21 +159,6 @@
 </p>
  
 
-<!--
-### Automation Tools
-<p
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  </a>
-
- </p>
-
--->
-
-
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
 
@@ -182,7 +167,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanarora29&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanarora29&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanarora29&show_icons=true&locale=en&layout=compact&theme=dark" alt="aryan" height="192px"/>
@@ -217,43 +202,15 @@
 
 <a href="https://github.com/aryanarora29/Homomorphic-Encryption">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanarora29&repo=Homomorphic-Encryption&theme=dark"/>
 
 </a> 
 
-<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
+<a href="https://github.com/aryanarora29/Portfolio-website">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanarora29&repo=Portfolio-website&theme=dark" />
 
 </a> 
-
-<a href="https://github.com/Nneji123/FIFA-22-Player-Analysis">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
-
-</a>
 
 - 👀 I’m interested in Java programming and web development
 - 🌱 I’m currently learning Machine Learning 
