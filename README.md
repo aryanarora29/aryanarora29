@@ -38,10 +38,6 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  
-  <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
 
   <a href="" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -57,33 +53,7 @@
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
 </p>
-  
-<!--
-### Database Tools
-<p
-     <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
 
-</p>
-  
-### Visualisation Tools
-<p  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="jetbrains" />
-  </a>
-</p>
-
--->
   
 ### Development Tools
 <p
@@ -169,7 +139,7 @@
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   </a>
    <a href="" target="_blank">
     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
