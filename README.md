@@ -224,10 +224,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="an1ruddh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=an1ruddh&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanarora29&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an1ruddh&show_icons=true&locale=en&layout=compact&theme=dark" alt="an1ruddh" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanarora29&show_icons=true&locale=en&layout=compact&theme=dark" alt="aryan" height="192px"/>
   <br/>
   </p>
 </details>
@@ -238,7 +238,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/an1ruddh"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=an1ruddh&theme=dark" /></a>
+   <a href="https://github.com/an1ruddh"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanarora29&theme=dark" /></a>
   <br/>
 
 </details>
@@ -252,7 +252,7 @@
 - 👀 I’m interested in Python programming and web development
 - 🌱 I’m currently learning Machine Learning and Data Science using python
 - 💞️ I’m looking to collaborate on any development project 
-- 📫 How to reach me: anirudhchoudhary515@gmail.com
+- 📫 How to reach me: aryanarora2929@gmail.com
 
 
 
