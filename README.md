@@ -212,7 +212,7 @@
 
 </a> 
 
-<br>
+<br/>
 
 - 👀 I’m interested in Java programming and web development
 - 🌱 I’m currently learning Machine Learning 
