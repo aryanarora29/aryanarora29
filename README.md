@@ -35,10 +35,12 @@
 
 ### Languages 
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
+
+<!--	
+ <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-
+-->
   <a href="" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
